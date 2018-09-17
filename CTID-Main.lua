@@ -232,7 +232,7 @@ function MENUZOOMSCOPES()
 		if MNZS == 4 then Z8XOFF() end
 		if MNZS == 5 then Z15XON() end
 		if MNZS == 6 then Z15XOFF() end
-		if MNZS == 6 then HOME() end
+		if MNZS == 7 then HOME() end
 	LAMERSHOME = -1
 end
 function MENUVEHICLES()
